@@ -1,0 +1,28 @@
+# REPO NAME
+![GitHub repo size](https://img.shields.io/github/repo-size/tanviruman/)
+![GitHub contributors](https://img.shields.io/github/contributors/tanviruman/)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/tanviruman/)
+
+
+## Authors
+
+- [@tanviruman](https://www.github.com/tanviruman)
+
+
+## My Blog
+
+I occasionally write about coding, technology, and other topics on [Hashnode](https://tanviruman.hashnode.dev/). You can check out my blog posts and stay updated with my latest articles.
+
+Feel free to explore and engage with my writings!
+
+
+## Connect with Me
+
+You can connect with me on various platforms:
+
+- [Codeforces](https://codeforces.com/profile/tanviruman)
+- [LinkedIn](https://www.linkedin.com/in/tanvirumaan)
+- [LeetCode](https://leetcode.com/tanviruman)
+- [HackerRank](https://www.hackerrank.com/tttttttt)
+
+Feel free to reach out, connect, or follow me on these platforms!
